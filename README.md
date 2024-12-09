@@ -14,3 +14,23 @@ AI Integration: Uses Google Gemini to generate accurate answers.
 File Handling: Converts and exports answers to Word documents.
 Naming Convention: Ensures clear file identification for each processed exam paper.
 This project highlights my skills in Python programming, AI tool integration, and automation of document workflows.
+
+
+
+# Step to Run this File :
+
+**Step 1 :**
+Clone this Repository on your Visual Studio Code.
+
+**Step 2 :**
+Open Terminal and run below Command
+pip install google-cloud-aiplatform PyPDF2 python-docx
+
+**Step 3 :**
+Run this file on Terminal By using this following Command :
+python file_name.py
+
+
+Enjoy It ........!!!
+
+Thanks. 
